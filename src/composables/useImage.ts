@@ -1,4 +1,4 @@
-import unsplashApi from '@/api/unspash'
+import unsplashApi from '@/api/unsplash'
 import { ref } from 'vue'
 
 const useImage = (query: string) => {
